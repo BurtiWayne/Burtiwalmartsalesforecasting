@@ -6,7 +6,7 @@ Statistical analysis and 12-week demand forecasting across 45 retail outlets, bu
 [![Streamlit](https://burtiwalmartsalesforecasting-gabwdn9afbf4emqtt5hp6j.streamlit.app/)
 
 
-**[▶ Live dashboard](#)** · **[📓 Full notebook](notebooks/Walmart_Sales_Analysis_and_Forecasting.ipynb)**
+**[▶ Live dashboard]([#](https://burtiwalmartsalesforecasting-gabwdn9afbf4emqtt5hp6j.streamlit.app/))** · **[📓 Full notebook](notebooks/Walmart_Sales_Analysis_and_Forecasting.ipynb)**
 
 ## The headline finding
 
