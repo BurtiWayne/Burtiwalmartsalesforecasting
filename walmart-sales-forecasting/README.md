@@ -9,10 +9,6 @@ Statistical analysis and 12-week demand forecasting across 45 retail outlets, bu
 
 **[▶ Live dashboard](#)** · **[📓 Full notebook](notebooks/Walmart_Sales_Analysis_and_Forecasting.ipynb)**
 
-> Replace the dashboard link once you've deployed — see [Deploying](#deploying).
-
----
-
 ## The headline finding
 
 Every external variable in this dataset is nearly useless for predicting sales.
@@ -365,7 +361,3 @@ Worth stating plainly, because they bound how far you should trust any of this:
 - **The model can't anticipate structural breaks** — a new competitor, renovation, or closure would invalidate its `lag_52` logic for that store.
 
 ---
-
-## License
-
-MIT — see [LICENSE](LICENSE).
