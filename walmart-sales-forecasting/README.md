@@ -3,9 +3,8 @@
 Statistical analysis and 12-week demand forecasting across 45 retail outlets, built to answer one operational question: **what should each store actually stock, and when?**
 
 [![Python](https://img.shields.io/badge/python-3.10%2B-blue.svg)](https://www.python.org/)
-[![Streamlit](https://img.shields.io/badge/streamlit-dashboard-FF4B4B.svg)](https://streamlit.io/)
-[![Tests](https://img.shields.io/badge/tests-15%20passing-brightgreen.svg)](tests/)
-[![License](https://img.shields.io/badge/license-MIT-lightgrey.svg)](LICENSE)
+[![Streamlit](https://burtiwalmartsalesforecasting-gabwdn9afbf4emqtt5hp6j.streamlit.app/)
+
 
 **[▶ Live dashboard](#)** · **[📓 Full notebook](notebooks/Walmart_Sales_Analysis_and_Forecasting.ipynb)**
 
