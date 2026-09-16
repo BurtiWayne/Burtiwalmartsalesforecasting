@@ -5,6 +5,8 @@ Statistical analysis and 12-week demand forecasting across 45 retail outlets, bu
 [![Python](https://img.shields.io/badge/python-3.10%2B-blue.svg)](https://www.python.org/)
 
 Full Dashboard App : https://burtiwalmartsalesforecasting-gabwdn9afbf4emqtt5hp6j.streamlit.app/
+
+
 Full notebook : notebooks/Walmart_Sales_Analysis_and_Forecasting.ipynb
 
 ## The headline finding
